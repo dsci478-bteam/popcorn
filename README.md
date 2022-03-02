@@ -4,6 +4,7 @@ All code for this project is located in the Juypter Notebook called 'B_Team_Comp
 
 In order to run the code, make sure you've installed the following Python packages:
 
+- notebook
 - bs4
 - io
 - re
